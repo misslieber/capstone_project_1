@@ -1,0 +1,66 @@
+
+ .banner{
+    width: 100%;
+    height: auto;
+
+ }
+.container_banner{
+    position: relative;
+}
+
+.banner_text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-80%, -20%);
+    text-align: left;
+}
+ 
+h1{
+font-family: "Anton", system-ui;
+font-weight: 400;
+margin-bottom: -20px;
+}
+
+p{      font-family: "Glass Antiqua", system-ui;
+        font-weight: 400;
+        font-style: normal;
+}
+
+#mainphoto{
+    height: 250px;
+  padding-top: -50px;}
+  #text1{
+    font-family: "Anton", system-ui;
+        font-weight: 400;
+     }
+  #text2{font-family: "Anton", system-ui;
+    font-weight: 400;
+     margin: 0 auto;
+     width: 30%;
+     padding: 20px;
+    border: 1px solid #ffc107;
+    }
+    #appbrewery{
+font-family: "Glass Antiqua", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: large;
+    }
+#text3{
+    font-family: "Anton", system-ui;
+        font-weight: 400;
+}
+#code_joke{
+    width: 250px;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 0;
+}
+#book_joke{
+    width: 250px;
+    height: auto;
+    padding-top: 20px;
+    padding-bottom: 32px;
+    padding-left: 5px;
+}
